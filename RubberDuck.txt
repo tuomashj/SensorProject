@@ -1,0 +1,2 @@
+i want to store the current time when a beat happens into a variable: lastBeatTime
+then assign the subtraction of that time from the current time of the next beat into a variable: beatIntervalTime
